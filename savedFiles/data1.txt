@@ -1,0 +1,35 @@
+Cart contents:
+----------------------------------------
+Title: Sousou no Frieren; Eps: 28; Years: Sep 2023 - Mar 2024; Rating: 9.14; 
+Title: Fullmetal Alchemist: Brotherhood; Eps: 64; Years: Apr 2009 - Jul 2010; Rating: 9.09; 
+Title: Steins;Gate; Eps: 24; Years: Apr 2011 - Sep 2011; Rating: 9.07; 
+Title: Gintama°; Eps: 51; Years: Apr 2015 - Mar 2016; Rating: 9.06; 
+Title: Shingeki no Kyojin Season 3 Part 2; Eps: 10; Years: Apr 2019 - Jul 2019; Rating: 9.05; 
+Title: Gintama: The Final; Eps: 1; Years: Jan 2021 - Jan 2021; Rating: 9.04; 
+Title: Hunter x Hunter (2011); Eps: 148; Years: Oct 2011 - Sep 2014; Rating: 9.04; 
+Title: Bleach: Sennen Kessen-hen; Eps: 13; Years: Oct 2022 - Dec 2022; Rating: 9.03; 
+Title: Gintama'; Eps: 51; Years: Apr 2011 - Mar 2012; Rating: 9.03; 
+Title: Gintama': Enchousen; Eps: 13; Years: Oct 2012 - Mar 2013; Rating: 9.03; 
+Title: Kaguya-sama wa Kokurasetai: Ultra Romantic; Eps: 13; Years: Apr 2022 - Jun 2022; Rating: 9.03; 
+Title: Ginga Eiyuu Densetsu; Eps: 110; Years: Jan 1988 - Mar 1997; Rating: 9.02; 
+Title: Fruits Basket: The Final; Eps: 13; Years: Apr 2021 - Jun 2021; Rating: 8.99; 
+Title: Gintama.; Eps: 12; Years: Jan 2017 - Mar 2017; Rating: 8.98; 
+Title: Gintama; Eps: 201; Years: Apr 2006 - Mar 2010; Rating: 8.94; 
+Title: Shingeki no Kyojin: The Final Season - Kanketsu-hen; Eps: 2; Years: Mar 2023 - Nov 2023; Rating: 8.94; 
+Title: Koe no Katachi; Eps: 1; Years: Sep 2016 - Sep 2016; Rating: 8.93; 
+Title: Clannad: After Story; Eps: 24; Years: Oct 2008 - Mar 2009; Rating: 8.93; 
+Title: 3-gatsu no Lion 2nd Season; Eps: 22; Years: Oct 2017 - Mar 2018; Rating: 8.92; 
+Title: Code Geass: Hangyaku no Lelouch R2; Eps: 25; Years: Apr 2008 - Sep 2008; Rating: 8.91; 
+Title: Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare; Eps: 1; Years: Jul 2013 - Jul 2013; Rating: 8.91; 
+Title: Jujutsu Kaisen 2nd Season; Eps: 23; Years: Jul 2023 - Dec 2023; Rating: 8.91; 
+Title: Gintama.: Shirogane no Tamashii-hen - Kouhan-sen; Eps: 14; Years: Jul 2018 - Oct 2018; Rating: 8.88; 
+Title: Monster; Eps: 74; Years: Apr 2004 - Sep 2005; Rating: 8.88; 
+Title: Violet Evergarden Movie; Eps: 1; Years: Sep 2020 - Sep 2020; Rating: 8.88; 
+Title: Owarimonogatari 2nd Season; Eps: 7; Years: Aug 2017 - Aug 2017; Rating: 8.87; 
+Title: Kimi no Na wa.; Eps: 1; Years: Aug 2016 - Aug 2016; Rating: 8.84; 
+Title: Kingdom 3rd Season; Eps: 26; Years: Apr 2020 - Oct 2021; Rating: 8.81; 
+Title: Bocchi the Rock!; Eps: 12; Years: Oct 2022 - Dec 2022; Rating: 8.81; 
+Title: Gintama.: Shirogane no Tamashii-hen; Eps: 12; Years: Jan 2018 - Mar 2018; Rating: 8.81; 
+----------------------------------------
+Total items: 30
+Average rating: 8.959
